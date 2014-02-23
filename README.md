@@ -4,7 +4,7 @@
   the server sourcecode in "server" folder ,which is coding in C++, compile  in VC++6.0 IDE
   the client sourcecode in "stb_client" folder, you can use it for referance.
 
-3.this system is used DES encryption algorithm for  transport safely,and  the CRC32 for making sure  datas completed. 
+3.this system is used DES encryption algorithm for  SOCKET transport safely,and  the CRC32 for making sure  datas completed. 
 
 4.the folder "stb_client" is a modules in my company project source(dont worry,i own the copyright), which is used for network upgrading for the device 
 may be you can't compile it correctly.so you can referance this code,and transplant to your own project,all is welcome!
